@@ -1,0 +1,8 @@
+/models_out
+/venv
+/openlane
+__pycache__/
+runs/
+logs/
+models/
+/pra.csv
